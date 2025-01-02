@@ -1,0 +1,14 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Hotel\bin\Debug\net9.0\Hotel.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Hotel\bin\Debug\net9.0\Hotel.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Hotel\bin\Debug\net9.0\Hotel.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Hotel\bin\Debug\net9.0\Hotel.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Hotel\bin\Debug\net9.0\Hotel.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Hotel\obj\Debug\net9.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Hotel\obj\Debug\net9.0\Hotel.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Hotel\obj\Debug\net9.0\Hotel.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Hotel\obj\Debug\net9.0\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Hotel\obj\Debug\net9.0\Hotel.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Hotel\obj\Debug\net9.0\refint\Hotel.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Hotel\obj\Debug\net9.0\Hotel.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Hotel\obj\Debug\net9.0\Hotel.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Hotel\obj\Debug\net9.0\ref\Hotel.dll

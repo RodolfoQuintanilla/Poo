@@ -1,0 +1,15 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Vehiculo\obj\Debug\net9.0\Vehiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Vehiculo\obj\Debug\net9.0\Vehiculo.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Vehiculo\obj\Debug\net9.0\Vehiculo.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Vehiculo\obj\Debug\net9.0\Vehiculo.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Vehiculo\obj\Debug\net9.0\Vehiculo.sourcelink.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Vehiculo\bin\Debug\net9.0\Vehiculo.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Vehiculo\bin\Debug\net9.0\Vehiculo.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Vehiculo\bin\Debug\net9.0\Vehiculo.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Vehiculo\bin\Debug\net9.0\Vehiculo.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Vehiculo\bin\Debug\net9.0\Vehiculo.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Vehiculo\obj\Debug\net9.0\Vehiculo.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Vehiculo\obj\Debug\net9.0\refint\Vehiculo.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Vehiculo\obj\Debug\net9.0\Vehiculo.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Vehiculo\obj\Debug\net9.0\Vehiculo.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\Poo\Vehiculo\obj\Debug\net9.0\ref\Vehiculo.dll
